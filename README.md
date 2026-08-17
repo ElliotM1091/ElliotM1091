@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Elliot 👋
 
-<!--
-**ElliotM1091/ElliotM1091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full-Stack Development | AI-Assisted Development
 
-Here are some ideas to get you started:
+I'm a software engineer focused on building practical, user-centered applications and strengthening my skills through real-world, production-style projects. I also use AI as an engineering tool for debugging, code review, testing, research, and development while making sure I understand and own the final implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional background has given me extensive experience in technical troubleshooting, problem-solving, communication, and working through complex customer and business needs.
+
+🛠️ Tech Stack
+Languages: JavaScript, Python, Java, C#
+Front End: React, HTML, CSS
+Tools: Git, GitHub, VS Code
+Current Focus: Full-stack development, APIs, databases, testing, deployment, and AI integration
+🚀 What I'm Working On
+Building new portfolio projects that demonstrate modern software engineering practices
+Developing applications that integrate AI in useful, responsible ways
+Practicing professional Git workflows, testing, code review, and documentation
+Rebuilding and expanding elliotmurrey.com as my software engineering portfolio
+📌 Featured Projects
+Cartridge Coders
+
+An earlier development project that remains part of my programming journey and portfolio.
+
+Misquote of the Day
+
+A project from my earlier development work that showcases my long-standing interest in building software.
+
+elliotmurrey.com
+
+The repository for my personal software engineering portfolio site, currently being refreshed for my next chapter in development.
+
+🤖 AI + Software Engineering
+
+I'm especially interested in using AI to make software development faster and more effective without treating it as a replacement for engineering fundamentals. My current portfolio work is focused on demonstrating AI-assisted development alongside traditional skills such as architecture, debugging, testing, version control, APIs, and databases.
+
+🌐 Portfolio
+
+elliotmurrey.com
+
+I'm currently preparing for software engineering opportunities and building new projects throughout 2026.
