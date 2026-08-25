@@ -2,7 +2,7 @@ Hi, I'm Elliot 👋
 
 Software Engineer | Full-Stack Development | AI-Assisted Development
 
-I'm a software engineer focused on building practical, user-centered applications and strengthening my skills through real-world, production-style projects. I also use AI as an engineering tool for debugging, code review, testing, research, and development while making sure I understand and own the final implementation.
+I'm a software engineer focused on building practical, user-centered applications and strengthening my skills through real-world, production-style projects. I wirte my ownw code but, also use AI as an engineering tool for debugging, code review, testing, research, and development while making sure I understand and own the final implementation.
 
 My professional background has given me extensive experience in technical troubleshooting, problem-solving, communication, and working through complex customer and business needs.
 
